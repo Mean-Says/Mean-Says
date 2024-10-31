@@ -19,15 +19,14 @@ Developer focused on creating efficient web products and solutions. I specialize
 ---
 
 ### 🌟 Featured Projects
-- **[Task Tracker](https://github.com/username/task-tracker)** - A distraction-free task management app.
-- **[Job Scraper](https://github.com/username/job-scraper)** - CLI tool that searches LinkedIn for job postings by keywords.
-- **[Mindin](https://github.com/username/mindin)** - A machine learning project to translate sign language into captions.
-
+- **[Job Scraper](https://github.com/username/job-scraper](https://github.com/Mean-Says/LinkedIn-Job-Scraper-CLI))** - CLI tool that searches LinkedIn for job postings by keywords.
+- **[Job Sender](https://github.com/username/job-sender)** - This project automates sending job vacancies to WhatsApp using a third-party API to read from a file and send configurable messages at regular intervals. 
+- **[Task Tracker](https://github.com/username/task-tracker](https://github.com/Mean-Says/Grupo-de-vagas))** - A distraction-free task management CLI.
 ---
 
 ### 🎓 Experience & Education
-- 💼 Web Developer Freelancer - Created websites, managed databases, and automated data processes.
-- 🎓 Bachelor’s in Computer Science - University Name
+- 💼 Web Developer Freelancer - Created websites, managed databases, and automated data processes. [Resume](https://www.rafaelmoreno.tech/arquivo/Rafael%20Moreno%20-%20CV%20copy.pdf)
+- 🎓 Graduating in Analysis and Systems Development - Universidade Veiga de Almeida
 
 ---
 
