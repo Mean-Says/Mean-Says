@@ -2,6 +2,10 @@
 
 Developer focused on creating efficient web products and solutions. I specialize in full-stack development and automation, constantly learning and adapting to new challenges in tech.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean-Says&show_icons=true&theme=radical)
+
+
+
 ---
 
 ### 💼 About Me
