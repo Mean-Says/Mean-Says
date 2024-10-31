@@ -2,10 +2,6 @@
 
 Developer focused on creating efficient web products and solutions. I specialize in full-stack development and automation, constantly learning and adapting to new challenges in tech.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean-Says&show_icons=true&theme=radical)
-
-
-
 ---
 
 ### 💼 About Me
@@ -27,6 +23,12 @@ Developer focused on creating efficient web products and solutions. I specialize
 - **[Job Sender](https://github.com/username/job-sender)** - This project automates sending job vacancies to WhatsApp using a third-party API to read from a file and send configurable messages at regular intervals. 
 - **[Task Tracker](https://github.com/username/task-tracker](https://github.com/Mean-Says/Grupo-de-vagas))** - A distraction-free task management CLI.
 ---
+
+### 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean-Says&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mean-Says&layout=compact&theme=radical)
+
+
 
 ### 🎓 Experience & Education
 - 💼 Web Developer Freelancer - Created websites, managed databases, and automated data processes. [Resume](https://www.rafaelmoreno.tech/arquivo/Rafael%20Moreno%20-%20CV%20copy.pdf)
