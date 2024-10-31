@@ -19,7 +19,7 @@ Developer focused on creating efficient web products and solutions. I specialize
 ---
 
 ### 🌟 Featured Projects
-- **[Vaga em Foco](https://github.com/Mean-Says/Grupo-de-vagas)** - Vagas em Foco is a web platform that aggregates job listings from various sources, helping users find job opportunities.
+- **[Vaga em Foco](https://vagas-em-foco.vercel.app)** - Vagas em Foco is a web platform that aggregates job listings from various sources, helping users find job opportunities.
 - **[Job Scraper](https://github.com/Mean-Says/LinkedIn-Job-Scraper-CLI)** - CLI tool that searches LinkedIn for job postings by keywords.
 - **[Job Sender](https://github.com/Mean-Says/Grupo-de-vagas)** - This project automates sending job vacancies to WhatsApp using a third-party API to read from a file and send configurable messages at regular intervals. 
 - **[Task Tracker](https://github.com/Mean-Says/Task_Tracker)** - A distraction-free task management CLI.
