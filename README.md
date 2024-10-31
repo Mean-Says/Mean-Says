@@ -19,9 +19,10 @@ Developer focused on creating efficient web products and solutions. I specialize
 ---
 
 ### 🌟 Featured Projects
-- **[Job Scraper](https://github.com/username/job-scraper](https://github.com/Mean-Says/LinkedIn-Job-Scraper-CLI))** - CLI tool that searches LinkedIn for job postings by keywords.
-- **[Job Sender](https://github.com/username/job-sender)** - This project automates sending job vacancies to WhatsApp using a third-party API to read from a file and send configurable messages at regular intervals. 
-- **[Task Tracker](https://github.com/username/task-tracker](https://github.com/Mean-Says/Grupo-de-vagas))** - A distraction-free task management CLI.
+- **[Vaga em Foco](https://github.com/Mean-Says/Grupo-de-vagas)** - Vagas em Foco is a web platform that aggregates job listings from various sources, helping users find job opportunities.
+- **[Job Scraper](https://github.com/Mean-Says/LinkedIn-Job-Scraper-CLI)** - CLI tool that searches LinkedIn for job postings by keywords.
+- **[Job Sender](https://github.com/Mean-Says/Grupo-de-vagas)** - This project automates sending job vacancies to WhatsApp using a third-party API to read from a file and send configurable messages at regular intervals. 
+- **[Task Tracker](https://github.com/Mean-Says/Task_Tracker)** - A distraction-free task management CLI.
 ---
 
 ### 📊 GitHub Stats
@@ -29,6 +30,7 @@ Developer focused on creating efficient web products and solutions. I specialize
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mean-Says&layout=compact&theme=radical)
 
 
+---
 
 ### 🎓 Experience & Education
 - 💼 Web Developer Freelancer - Created websites, managed databases, and automated data processes. [Resume](https://www.rafaelmoreno.tech/arquivo/Rafael%20Moreno%20-%20CV%20copy.pdf)
