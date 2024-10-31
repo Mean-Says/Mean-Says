@@ -13,7 +13,7 @@ Developer focused on creating efficient web products and solutions. I specialize
 
 ### 🛠️ Skills & Technologies
 - **Languages**: Python, JavaScript, SQL
-- **Frameworks & Libraries**: Flask, React, Selenium, Pytest
+- **Frameworks & Libraries**: Flask, Django, React, Selenium, Pytest
 - **Tools**: Git, Postman, Docker
 
 ---
