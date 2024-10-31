@@ -6,7 +6,7 @@ Developer focused on creating efficient web products and solutions. I specialize
 
 ### 💼 About Me
 - 🌐 Web Developer passionate about product development.
-- 💻 Skilled in **Flask**, **JavaScript**, **SQL**, and **automated testing**.
+- 💻 Skilled in **Flask**, **Django**, **FastAPi**, **JavaScript**, **SQL**, and **automated testing**.
 - 📚 Lifelong learner, exploring new tools and techniques to build better software.
 
 ---
