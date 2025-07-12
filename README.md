@@ -1,49 +1,63 @@
 # 👋 Hi, I'm Rafael Moreno!
 
-Developer focused on creating efficient web products and solutions. I specialize in full-stack development and automation, constantly learning and adapting to new challenges in tech.
+Full-stack developer focused on building efficient and user-oriented web solutions. Passionate about product development and automation, always learning and tackling new challenges in tech.
 
 ---
 
-### 💼 About Me
-- 🌐 Web Developer passionate about product development.
-- 💻 Skilled in **Flask**, **Django**, **FastAPi**, **JavaScript**, **SQL**, and **automated testing**.
-- 📚 Lifelong learner, exploring new tools and techniques to build better software.
+## 💼 About Me
+- 🌐 Web Developer with a product mindset.
+- ⚙️ Experienced in **Flask**, **Django**, **FastAPI**, **JavaScript**, **SQL**, and **automated testing**.
+- 📚 Always exploring new tools, frameworks, and practices to create better software.
 
 ---
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 - **Languages**: Python, JavaScript, SQL
-- **Frameworks & Libraries**: Flask, Django, React, Selenium, Pytest
-- **Tools**: Git, Postman, Docker
+- **Frameworks & Libraries**: Flask, Django, React, Selenium, Pytest, Django REST Framework
+- **Tools**: Git, Docker, Postman, BeautifulSoup
 
 ---
 
-### 🌟 Featured Projects
-- **[Vaga em Foco](https://vagas-em-foco.vercel.app)** - Vagas em Foco is a web platform that aggregates job listings from various sources, helping users find job opportunities.
-- **[Job Scraper](https://github.com/Mean-Says/LinkedIn-Job-Scraper-CLI)** - CLI tool that searches LinkedIn for job postings by keywords.
-- **[Job Sender](https://github.com/Mean-Says/Grupo-de-vagas)** - This project automates sending job vacancies to WhatsApp using a third-party API to read from a file and send configurable messages at regular intervals. 
-- **[Task Tracker](https://github.com/Mean-Says/Task_Tracker)** - A distraction-free task management CLI.
----
+## 🌟 Featured Project
 
-### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean-Says&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mean-Says&layout=compact&theme=radical)
+### 🚀 [Radar de Empregos](https://www.radardeempregos.com/)
+A job listing platform developed to help professionals find opportunities faster and more easily. Includes backend API, job monitoring tools, and frontend interface built with scalability and usability in mind.
 
+- Developed end-to-end: data collection, backend, and frontend.
+- Automated job scraping and notification system.
 
 ---
 
-### 🎓 Experience & Education
-- 💼 Web Developer Freelancer - Created websites, managed databases, and automated data processes. [Resume](https://www.rafaelmoreno.tech/arquivo/Rafael%20Moreno%20-%20CV%20copy.pdf)
-- 🎓 Graduating in Analysis and Systems Development - Universidade Veiga de Almeida
+## 🎓 Experience & Education
+
+- 💼 **Full Stack Developer – Estasa** (Nov 2024 – Present · 9 months)  
+  Rio de Janeiro, Brazil · On-site
+  - Developed APIs and interfaces to monitor and control automated processes using **Flask**, **Django**, and **Django REST Framework**.
+  - Modernized features and optimized performance for integration with new platforms.
+  - Ensured compatibility with the existing architecture and alignment with business needs.
+  - Built dynamic and responsive interfaces with **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**.
+  - Implemented efficient integration between front-end and back-end to ensure fast and optimized data flows.
+  - Maintained, refactored, and documented code for scalability and future maintainability.
+
+- 💼 **Web Developer** – Focused on the [Radar de Empregos](https://www.radardeempregos.com/) platform.
+
+- 🎓 **Analysis and Systems Development** – Universidade Veiga de Almeida (Graduating)
 
 ---
 
-### 📜 Certifications
-- C2 English Proficiency (EF Standard English Test)
+## 📜 Certifications
+- ✅ C2 English Proficiency (EF Standard English Test)
 
 ---
 
-### 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/moreno-rafael)
-- [Email](mailto:oliveirafaelmoreno@gmail.com)
-- [Portfolio](https://rafaelmoreno.tech)
+## 📊 GitHub Stats
+
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean-Says&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mean-Says&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+- 🌐 [Portfolio](https://rafaelmoreno.tech)
+- 💼 [LinkedIn](https://linkedin.com/in/moreno-rafael)
+- ✉️ [Email](mailto:oliveirafaelmoreno@gmail.com)
