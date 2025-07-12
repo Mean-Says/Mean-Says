@@ -58,6 +58,6 @@ A job listing platform developed to help professionals find opportunities faster
 ---
 
 ## 📫 Let's Connect!
-- 🌐 [Portfolio](https://rafaelmoreno.tech)
+- 🌐 [Portfolio](https://www.rafaelmoreno.info/)
 - 💼 [LinkedIn](https://linkedin.com/in/moreno-rafael)
 - ✉️ [Email](mailto:oliveirafaelmoreno@gmail.com)
