@@ -76,7 +76,7 @@ I participate as a **software developer**, contributing to the technical evoluti
 
 ## 💼 Professional Experience
 
-### 💼 Full Stack Developer — Estasa *(CLT)*  
+### 💼 Full Stack Developer — Estasa   
 📍 Rio de Janeiro, Brazil | On-site  
 🗓 Nov 2024 – Present
 
