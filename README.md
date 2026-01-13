@@ -1,63 +1,115 @@
-# 👋 Hi, I'm Rafael Moreno!
+# 👋 Hi, I'm Rafael Moreno
 
-Full-stack developer focused on building efficient and user-oriented web solutions. Passionate about product development and automation, always learning and tackling new challenges in tech.
-
----
-
-## 💼 About Me
-- 🌐 Web Developer with a product mindset.
-- ⚙️ Experienced in **Flask**, **Django**, **FastAPI**, **JavaScript**, **SQL**, and **automated testing**.
-- 📚 Always exploring new tools, frameworks, and practices to create better software.
+Full-stack developer with a strong product mindset, focused on building real-world software, automation pipelines, and scalable systems.  
+I work across backend, frontend, and integrations, always close to the business problem and the end user.
 
 ---
 
-## 🛠️ Skills & Technologies
-- **Languages**: Python, JavaScript, SQL
-- **Frameworks & Libraries**: Flask, Django, React, Selenium, Pytest, Django REST Framework
-- **Tools**: Git, Docker, Postman, BeautifulSoup
+## 🧠 Products I Own & Built
+
+### 🧠 Thought — Intelligent Content Curation *(Owner)*  
+🌐 https://thought.com.br/
+
+**Thought** is an intelligent content curation tool designed to help creators and professionals transform consumed information into original thinking and structured content.
+
+It does **not** generate generic texts.  
+Instead, it organizes references and uses AI to ask the *right questions* that unlock the user's own perspective.
+
+**What Thought actually does:**
+- Centralizes user-added references (articles, posts, ideas)
+- Understands content context beyond keywords
+- Generates strategic, non-obvious questions using AI
+- Helps users structure their own ideas into publishable formats (e.g. LinkedIn posts)
+- Preserves authorial voice and critical thinking
+
+**My role:**
+- Product conception and positioning
+- System architecture and data modeling
+- Backend development and AI integration
+- Frontend, UX flows, and copy
+- Deployment, maintenance, and evolution
+
+➡️ Fully designed and developed by me, end-to-end.
 
 ---
 
-## 🌟 Featured Project
+### 🚀 Radar de Empregos — Job Monitoring Platform *(Owner)*  
+🌐 https://www.radardeempregos.com/
 
-### 🚀 [Radar de Empregos](https://www.radardeempregos.com/)
-A job listing platform developed to help professionals find opportunities faster and more easily. Includes backend API, job monitoring tools, and frontend interface built with scalability and usability in mind.
+**Radar de Empregos** is a platform that automates job discovery by continuously monitoring multiple sources and delivering relevant opportunities directly to users via WhatsApp.
 
-- Developed end-to-end: data collection, backend, and frontend.
-- Automated job scraping and notification system.
+**What the product does:**
+- Monitors job openings across multiple platforms
+- Normalizes and filters data based on user-defined criteria
+- Automates job alerts and notifications
+- Eliminates manual job searching
+- Focuses on speed, relevance, and automation
 
----
+**My role:**
+- Product ideation and validation
+- Backend architecture and data pipelines
+- Job monitoring and normalization logic
+- Notification and automation flows
+- Maintenance and scalability improvements
 
-## 🎓 Experience & Education
-
-- 💼 **Full Stack Developer – Estasa** (Nov 2024 – Present · 9 months)  
-  Rio de Janeiro, Brazil · On-site
-  - Developed APIs and interfaces to monitor and control automated processes using **Flask**, **Django**, and **Django REST Framework**.
-  - Modernized features and optimized performance for integration with new platforms.
-  - Ensured compatibility with the existing architecture and alignment with business needs.
-  - Built dynamic and responsive interfaces with **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**.
-  - Implemented efficient integration between front-end and back-end to ensure fast and optimized data flows.
-  - Maintained, refactored, and documented code for scalability and future maintainability.
-
-- 💼 **Web Developer** – Focused on the [Radar de Empregos](https://www.radardeempregos.com/) platform.
-
-- 🎓 **Analysis and Systems Development** – Universidade Veiga de Almeida (Graduating)
+➡️ Product fully developed and maintained by me.
 
 ---
 
-## 📜 Certifications
-- ✅ C2 English Proficiency (EF Standard English Test)
+## 🤝 Contributing To
+
+### 🔎 Encontre Seu Emprego *(Contributor)*  
+🌐 https://www.encontreseuemprego.com.br/
+
+**Encontre Seu Emprego** is a job platform created by  
+👩‍💼 https://www.linkedin.com/in/fernandalara-rh/
+
+I participate as a **software developer**, contributing to the technical evolution of the platform.
+
+**My contributions:**
+- Support and evolution of an existing system built with **.NET and Blazor**
+- Development of backend APIs
+- Creation of integration routines with external systems
+- Technical support and maintenance of production features
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Professional Experience
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean-Says&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mean-Says&layout=compact&theme=radical)
+### 💼 Full Stack Developer — Estasa *(CLT)*  
+📍 Rio de Janeiro, Brazil | On-site  
+🗓 Nov 2024 – Present
+
+Working on the development and evolution of an **ERP system**, focusing on reliability, performance, and integration with business processes.
+
+**Responsibilities:**
+- Backend development using **Flask, Django, and Django REST Framework**
+- Development of APIs and internal services
+- Frontend development with **HTML, CSS, JavaScript, and Tailwind CSS**
+- Integration between systems and automation of internal processes
+- Refactoring, documentation, and long-term maintainability
+- Alignment with existing architecture and business rules
 
 ---
 
-## 📫 Let's Connect!
-- 🌐 [Portfolio](https://www.rafaelmoreno.info/)
-- 💼 [LinkedIn](https://linkedin.com/in/moreno-rafael)
-- ✉️ [Email](mailto:oliveirafaelmoreno@gmail.com)
+## 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript, SQL  
+- **Backend:** Flask, Django, FastAPI, Django REST Framework  
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS  
+- **Automation & Testing:** Selenium, Pytest  
+- **Tools:** Git, Docker, Postman, BeautifulSoup  
+
+---
+## 📊 GitHub Activity & Metrics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mean-Says&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mean-Says&layout=compact&theme=radical&langs_count=8)
+---
+
+## 📫 Contact
+
+- 🌐 Portfolio: https://www.rafaelmoreno.info/
+- 💼 LinkedIn: https://linkedin.com/in/moreno-rafael
+- ✉️ Email: oliveirafaelmoreno@gmail.com
